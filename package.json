@@ -1,0 +1,26 @@
+{
+  "name": "amber-nft-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gentle-smile918/AMBER-NFT-landing-page.git"
+  },
+  "keywords": [
+    "AMBER",
+    "NFT",
+    "Landing",
+    "MINT",
+    "MODEL"
+  ],
+  "author": "gentle-smile918",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gentle-smile918/AMBER-NFT-landing-page/issues"
+  },
+  "homepage": "https://github.com/gentle-smile918/AMBER-NFT-landing-page#readme"
+}
